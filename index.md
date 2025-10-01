@@ -9,3 +9,7 @@ Here is a block of Python code for a sample project:
 ``` python
 print("I wanna eat a Double Cheese Burger so bad")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
